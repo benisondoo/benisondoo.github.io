@@ -1,0 +1,16 @@
+body{
+	background-image: url("image/techback.jpg") ;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+
+}
+a:hover{
+	color: white;
+}
+a{
+	color: magenta;
+}
+h2{
+	color: white;
+}

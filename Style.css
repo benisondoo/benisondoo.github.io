@@ -1,0 +1,20 @@
+body{
+    background-image: url("images/coolbackground.jpg") ;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+a:hover{
+	color: white;
+}
+a{
+	color: magenta;
+}
+h1{
+	color: #FFFFFF;
+	font-size:325%;
+}
+h2{
+	color:#FFFFFF;
+	font-size: 125%; 
+}
