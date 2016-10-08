@@ -7,10 +7,16 @@ body{
 }
 a:hover{
 	color: white;
+	font-size: 200%;
+	
 }
 a{
 	color: magenta;
+	font-size: 200%;
 }
 h2{
-	color: white;
+	color: #ff9900;
+}
+h1{
+	color: #ff9900;
 }

@@ -6,9 +6,11 @@ body{
 }
 a:hover{
 	color: white;
+	font-size: 200%;
 }
 a{
 	color: magenta;
+	font-size: 200%;
 }
 h1{
 	color: #FFFFFF;
@@ -17,4 +19,16 @@ h1{
 h2{
 	color:#FFFFFF;
 	font-size: 125%; 
+}
+#bio{
+	background-image: url("images/bio.jpg");
+	background-repeat: no-repeat;
+	background-position: center; 
+	display:block;
+	margin:0;
+	width: 35%;
+}
+p{
+	color:#FFFFFF;
+	font-size: 125%;
 }
